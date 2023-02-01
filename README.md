@@ -20,9 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="50" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="50" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="50" alt="nextjs logo"  />
-  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fchakra-ui.svg?alt=media&token=df1b7bdd-c556-4580-ac2d-3902c2cb4485" height="30" width="50" alt="chakraui logo"  />
-  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Ftailwind-css.svg?alt=media&token=a4ff7555-583f-4532-907e-cd21e778aa9c" height="25" width="50" alt="tailwindcss logo"  />
-  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fmaterial-ui.svg?alt=media&token=5ad20d98-5c92-445d-afdb-bd04afcb2ff3" height="25" width="50" alt="materialui logo"  />
+  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fsvg%2Fchakra-ui.svg?alt=media&token=f00d66c4-2a39-487b-af4c-7667358bc935" height="30" width="50" alt="chakraui logo"  />
+  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fsvg%2Ftailwind-css-2.svg?alt=media&token=6aee640c-e23a-4f63-ae53-5137926c9d37" height="25" width="50" alt="tailwindcss logo"  />
+  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fsvg%2Fmaterial-ui-1.svg?alt=media&token=5a290186-9028-4d5d-8ae2-674d553208eb" height="25" width="50" alt="materialui logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="50" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="50" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="50" alt="express logo"  />
