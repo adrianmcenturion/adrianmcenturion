@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="50" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="50" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="50" alt="photoshop logo"  />
+  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fsvg%2Ffirebase-240.svg?alt=media&token=ae7bb1ea-f092-4d50-b980-c4fcf8ad302f" height="25" width="50" alt="Firebase" logo />
 </div>
 
 ###
