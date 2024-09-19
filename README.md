@@ -24,13 +24,9 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fsvg%2Ftailwind-css-2.svg?alt=media&token=6aee640c-e23a-4f63-ae53-5137926c9d37" height="25" width="50" alt="tailwindcss logo"  />
   <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fsvg%2Fmaterial-ui-1.svg?alt=media&token=5a290186-9028-4d5d-8ae2-674d553208eb" height="25" width="50" alt="materialui logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="50" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="50" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="50" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="50" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="50" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="50" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="50" alt="photoshop logo"  />
-  <img src="https://firebasestorage.googleapis.com/v0/b/db-portfolio-fb0e3.appspot.com/o/technologies%2Fsvg%2Ffirebase-240.svg?alt=media&token=ae7bb1ea-f092-4d50-b980-c4fcf8ad302f" height="25" width="50" alt="Firebase" logo />
+  
+  
 </div>
 
 ###
